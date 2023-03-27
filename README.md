@@ -1,6 +1,6 @@
 # 💫About Me :
-A passionate full stack developer from Ghana.
-Currently learning python.
+A passionate junior developer from Ghana.
+Currently enrolled in ALX software Engineering Program.
 Working on slideshub.
 
 ## 🌐Socials
